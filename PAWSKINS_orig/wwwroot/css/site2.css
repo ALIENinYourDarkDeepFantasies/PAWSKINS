@@ -1,0 +1,444 @@
+html {
+  font-size: 14px;
+}
+body {
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    z-index: 1;
+}
+
+header {
+    z-index: 5;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+@font-face {
+    font-family: "Ostrovsky-Bold_0";
+    src: url("Ostrovsky-Bold_0.otf");
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+.firstContainer {
+    min-height: calc(100vh - 420px);
+}
+
+.switchers {
+    align-items: center;
+    display: flex;
+    padding: 16px;
+    padding-right: 50px;
+    justify-content: flex-end;
+}
+
+.drop {
+    position: relative;
+    margin-right: 40px
+}
+
+    .drop button {
+        background: none;
+        border: none;
+        color: #cbcdd2;
+        font-family: 'Javanese Text';
+        font-size: 20px;
+        max-height: 25px;
+    }
+
+.RaF {
+    position: relative;
+    top: 6px;
+}
+
+.arrow {
+    position: relative;
+    top: 2px;
+}
+
+.dropContent {
+    display: none;
+    position: absolute;
+    font-family: Ostrovsky-Bold_0;
+    font-size: 20px;
+    font-weight: 900;
+    margin: 0 16px;
+    padding: 10px 16px;
+    text-transform: uppercase;
+    margin-top: 15px;
+    min-width: 160px;
+    background: #1a1c21;
+    color: #cbcdd2;
+    border-radius: 15px;
+    z-index:4;
+}
+
+.drop:hover .dropContent {
+    display: block;
+}
+
+.cobinetBlock {
+    background: url(backProfile.png);
+    max-width: 1920px;
+    min-width: 1920px;
+    max-height: 293px;
+}
+
+.wrap {
+    max-height: 293px;
+}
+
+.blockContent {
+    margin-bottom: 16px;
+    position: relative;
+    max-height: 293px;
+}
+
+.avatar {
+    max-height: 192px;
+    max-width: 192px;
+    margin-left: 50px;
+    margin-top: 28px;
+}
+
+.userName {
+    margin-top: 38px;
+    color: #cbcdd2;
+    height: 48px;
+    font-family: Ostrovsky-Bold_0;
+    font-size: 48px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.cobinetBlock .userProfile .profileFieldsTwoColumn {
+}
+
+    .profileInfo:first-child {
+        padding-right: 20%;
+    }
+
+.cobinetBlock .userProfile {
+    display: grid;
+    grid-template-columns: 250px auto;
+    max-height: 293px;
+}
+
+.cobinetBlock .userInfo {
+    margin-left: 50px;
+    max-height: 293px;
+}
+
+.cobinetBlock .userProfile .profileFields {
+    display: table;
+}
+
+.cobinetBlock .userProfile .profileFieldRow {
+    display: table-row;
+}
+
+.profileFields img {
+    position: absolute;
+}
+
+.cobinetBlock .userProfile .profileFieldTitle {
+    height: 45px;
+    vertical-align: middle;
+    font-family: Ostrovsky-Bold_0;
+    font-size: 20px;
+    color: #cbcdd2;
+}
+
+.cobinetBlock .userProfile .profileFieldValue {
+    background: url(backInputInfo.png);
+    min-height: 46px;
+    vertical-align: middle;
+    min-width: 316px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.profileFieldValue input {
+    border: 0;
+    color: #cbcdd2;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    box-sizing: border-box;
+    font: 20px open sans, sans-serif;
+    height: 38.9px;
+    outline: 0;
+    padding: 8px 15px 0px 15px;
+    background: url(backLink2.png);
+    min-width: 315.01px;
+    position: relative;
+    z-index: 5;
+}
+
+.cobinetBlock .userProfile .profileFieldTitle {
+    display: table-cell;
+    min-width: 130px;
+    padding-right: 30px;
+}
+
+.cobinetBlock .userProfile .profileFieldSave {
+    
+}
+
+.cobinetBlock .userProfile .profileFieldSave {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.saveButton {
+    background: url(backSave.png);
+    min-height: 33px;
+    min-width: 125px;
+    margin-left: 26px;
+    
+}
+
+    .saveButton p {
+        color: #cbcdd2;
+        font-size: 15px;
+        font-family: Ostrovsky-Bold_0;
+        font-weight: 600;
+        padding: 7px;
+        padding-left: 13px;
+    }
+
+.profileInfo {
+    max-width:700px;
+    position:relative;  
+    left: 900px;
+    bottom: 70px
+}
+
+.profileInfo1 {
+    max-width: 300px;
+    margin-top: 10px;
+    position:absolute;
+}
+
+.cobinetBlock .userProfile .profileFields1 {
+    display: table;
+    width: 100%;
+}
+
+.cobinetBlock .userProfile .profileFieldRow1 {
+    display: table-row;
+}
+
+.profileFields1 img {
+    position: absolute;
+    max-width: 210px;
+}
+
+.cobinetBlock .userProfile .profileFieldTitle1 {
+    padding-top: 9px;
+    height: 26px;
+    vertical-align: middle;
+    font-family: Bahnschrift;
+    font-size: 18px;
+    color: #cbcdd2;
+}
+
+.cobinetBlock .userProfile .profileFieldTitle1 {
+    display: table-cell;
+    min-width: 50px;
+    padding-right: 15px;
+}
+
+.userTabs {
+    margin-top: 50px;
+    background: url(back2Line.png);
+    max-width: 1920px;
+    min-height: 52px;
+    max-height: 52px;
+    display: flex;
+    justify-content: space-between;
+}
+
+    .userTabs .transaction {
+        display: flex;
+        align-items: center;
+        margin-left: 35px;
+        position: relative;
+        z-index: 4;
+    }
+
+.transaction label {
+    font-family: Ostrovsky-Bold_0;
+    font-size: 18px;
+    color: #cbcdd2;
+    margin-left: 10px;
+}
+
+.userTabs .inventoryLK {
+    position: relative;
+    display: flex;
+    align-items: center;
+    position: relative;
+    z-index: 4;
+}
+
+.inventoryLK label {
+    font-family: Ostrovsky-Bold_0;
+    font-size: 18px;
+    color: #cbcdd2;
+    margin-left: 10px;
+}
+
+.userTabs .safety {
+    display: flex;
+    align-items: center;
+    margin-right: 35px;
+    position: relative;
+    z-index: 4;
+}
+
+.safety label {
+    font-family: Ostrovsky-Bold_0;
+    font-size: 18px;
+    color: #cbcdd2;
+    margin-left: 10px;
+}
+
+.userInventoryLK {
+    margin-top: 50px;
+    background: url(back3Line.png);
+    max-height: 461px;
+    min-height: 461px;
+    max-width: 1920px;
+}
+
+.cubeLK {
+    position: relative;
+    bottom: 7px;
+    min-width: 24px
+}
+
+.cube1LK {
+    margin: 0px;
+}
+
+.cube2LK {
+    margin-left: -3px;
+}
+
+.cube3LK {
+    margin-left: -3px;
+}
+
+.cube4LK {
+    margin: 0px;
+    margin-bottom: 0px;
+}
+
+.cube5LK {
+    margin-left: -3px;
+    margin-bottom: 0px;
+}
+
+.cube6LK {
+    margin-left: -3px;
+    margin-bottom: 0px;
+}
+
+.cube7LK {
+    margin: 0px;
+    margin-bottom: 0px;
+}
+
+.cube8LK {
+    margin-left: -3px;
+    margin-bottom: 0px;
+}
+
+.cube9LK {
+    margin-left: -3px;
+    margin-top: 0px;
+}
+
+.cube123LK {
+    max-height: 8px;
+}
+
+.cube456LK {
+    max-height: 8px;
+}
+
+.cube789LK {
+    max-height: 8px;
+}
+
+.blockContentHeader {
+    align-items: center;
+    -moz-column-gap: 8px;
+    column-gap: 8px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 16px;
+    padding: 16px 16px 0;
+    row-gap: 16px;
+}
+
+.blockContentHeader .blockName {
+    color: #fff;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    margin-right: auto;
+    text-transform: uppercase;
+}
+
+.itemBlockFiltersInner {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.itemBlockFilter {
+    z-index: 4;
+}
+
+.filterInput {
+    position: relative;
+}
+
+.tableResponsive {
+    
+}
+
+.rowHeaders {
+    display:flex;
+}
+
+.cell {
+    color: #fff;
+    cursor: default;
+    line-height: 21px;
+    padding: 10px 16px;
+    text-align: left;
+    vertical-align: middle;
+}
+
+.statusWrapper {
+    display:inline-block;
+}
+
+.cell .date {
+    color: #999ca4;
+    font-size: 12px;
+    line-height: 18px;
+}

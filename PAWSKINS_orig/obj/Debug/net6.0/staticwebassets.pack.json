@@ -1,0 +1,581 @@
+{
+  "Files": [
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PAWSKINS_orig.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PAWSKINS_orig.bundle.scp.css"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\1.png",
+      "PackagePath": "staticwebassets\\Image\\1.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\2.png",
+      "PackagePath": "staticwebassets\\Image\\2.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\3.png",
+      "PackagePath": "staticwebassets\\Image\\3.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\4.png",
+      "PackagePath": "staticwebassets\\Image\\4.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\5.png",
+      "PackagePath": "staticwebassets\\Image\\5.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\6.png",
+      "PackagePath": "staticwebassets\\Image\\6.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\7.png",
+      "PackagePath": "staticwebassets\\Image\\7.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\8.png",
+      "PackagePath": "staticwebassets\\Image\\8.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\9.png",
+      "PackagePath": "staticwebassets\\Image\\9.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\AK-47 Red Laminate.png",
+      "PackagePath": "staticwebassets\\Image\\AK-47 Red Laminate.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\AWP Gungnir.png",
+      "PackagePath": "staticwebassets\\Image\\AWP Gungnir.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\AWP Hyper Beast.png",
+      "PackagePath": "staticwebassets\\Image\\AWP Hyper Beast.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\BKB.png",
+      "PackagePath": "staticwebassets\\Image\\BKB.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\Butterfly Knife Slaughter.png",
+      "PackagePath": "staticwebassets\\Image\\Butterfly Knife Slaughter.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\Dollars.png",
+      "PackagePath": "staticwebassets\\Image\\Dollars.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\Galil AR Tornado.png",
+      "PackagePath": "staticwebassets\\Image\\Galil AR Tornado.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\Logo2.png",
+      "PackagePath": "staticwebassets\\Image\\Logo2.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\Lupa.png",
+      "PackagePath": "staticwebassets\\Image\\Lupa.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\M4A1-S Blue Phosphor.png",
+      "PackagePath": "staticwebassets\\Image\\M4A1-S Blue Phosphor.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\M4A4 Bullet Rain1.png",
+      "PackagePath": "staticwebassets\\Image\\M4A4 Bullet Rain1.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\M4A4 Howl.png",
+      "PackagePath": "staticwebassets\\Image\\M4A4 Howl.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\Number K The Professionals.png",
+      "PackagePath": "staticwebassets\\Image\\Number K The Professionals.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\Refresh.png",
+      "PackagePath": "staticwebassets\\Image\\Refresh.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\Refresh2.png",
+      "PackagePath": "staticwebassets\\Image\\Refresh2.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\Specialist Gloves Tiger Strike.png",
+      "PackagePath": "staticwebassets\\Image\\Specialist Gloves Tiger Strike.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\arrow.png",
+      "PackagePath": "staticwebassets\\Image\\arrow.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\arrow2.png",
+      "PackagePath": "staticwebassets\\Image\\arrow2.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\avatar.png",
+      "PackagePath": "staticwebassets\\Image\\avatar.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\csgo-logo.png",
+      "PackagePath": "staticwebassets\\Image\\csgo-logo.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\dota2-logo.png",
+      "PackagePath": "staticwebassets\\Image\\dota2-logo.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\flag.png",
+      "PackagePath": "staticwebassets\\Image\\flag.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\greenLine.png",
+      "PackagePath": "staticwebassets\\Image\\greenLine.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\line 2.png",
+      "PackagePath": "staticwebassets\\Image\\line 2.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\line1.png",
+      "PackagePath": "staticwebassets\\Image\\line1.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\line3.png",
+      "PackagePath": "staticwebassets\\Image\\line3.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\redLine.png",
+      "PackagePath": "staticwebassets\\Image\\redLine.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\rubles.png",
+      "PackagePath": "staticwebassets\\Image\\rubles.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\tg.png",
+      "PackagePath": "staticwebassets\\Image\\tg.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\vk.png",
+      "PackagePath": "staticwebassets\\Image\\vk.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\Image\\yellowLine.png",
+      "PackagePath": "staticwebassets\\Image\\yellowLine.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\Ostrovsky-Bold_0.otf",
+      "PackagePath": "staticwebassets\\css\\Ostrovsky-Bold_0.otf"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\back2Line.png",
+      "PackagePath": "staticwebassets\\css\\back2Line.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\back3Line.png",
+      "PackagePath": "staticwebassets\\css\\back3Line.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\backCash.png",
+      "PackagePath": "staticwebassets\\css\\backCash.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\backCash2.png",
+      "PackagePath": "staticwebassets\\css\\backCash2.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\backChoose2.png",
+      "PackagePath": "staticwebassets\\css\\backChoose2.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\backInputInfo.png",
+      "PackagePath": "staticwebassets\\css\\backInputInfo.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\backInventory.png",
+      "PackagePath": "staticwebassets\\css\\backInventory.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\backLeftTheme.png",
+      "PackagePath": "staticwebassets\\css\\backLeftTheme.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\backLink2.png",
+      "PackagePath": "staticwebassets\\css\\backLink2.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\backLogoGame.png",
+      "PackagePath": "staticwebassets\\css\\backLogoGame.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\backLot.png",
+      "PackagePath": "staticwebassets\\css\\backLot.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\backLot2.png",
+      "PackagePath": "staticwebassets\\css\\backLot2.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\backLotPay.png",
+      "PackagePath": "staticwebassets\\css\\backLotPay.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\backPay.png",
+      "PackagePath": "staticwebassets\\css\\backPay.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\backPayButton.png",
+      "PackagePath": "staticwebassets\\css\\backPayButton.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\backPrice.png",
+      "PackagePath": "staticwebassets\\css\\backPrice.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\backProfile.png",
+      "PackagePath": "staticwebassets\\css\\backProfile.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\backRefresh.png",
+      "PackagePath": "staticwebassets\\css\\backRefresh.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\backRefresh2.png",
+      "PackagePath": "staticwebassets\\css\\backRefresh2.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\backRightTheme.png",
+      "PackagePath": "staticwebassets\\css\\backRightTheme.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\backSave.png",
+      "PackagePath": "staticwebassets\\css\\backSave.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\backSearch2.png",
+      "PackagePath": "staticwebassets\\css\\backSearch2.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\backSearchForSkins.png",
+      "PackagePath": "staticwebassets\\css\\backSearchForSkins.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\backSearchSkins.png",
+      "PackagePath": "staticwebassets\\css\\backSearchSkins.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\backTrade2.png",
+      "PackagePath": "staticwebassets\\css\\backTrade2.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\backheader11.png",
+      "PackagePath": "staticwebassets\\css\\backheader11.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\bg.png",
+      "PackagePath": "staticwebassets\\css\\bg.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\bg1.png",
+      "PackagePath": "staticwebassets\\css\\bg1.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\bg2.png",
+      "PackagePath": "staticwebassets\\css\\bg2.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\bgPaw.png",
+      "PackagePath": "staticwebassets\\css\\bgPaw.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\bgPaw2.png",
+      "PackagePath": "staticwebassets\\css\\bgPaw2.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\cheholchik.png",
+      "PackagePath": "staticwebassets\\css\\cheholchik.png"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\css\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\site2.css",
+      "PackagePath": "staticwebassets\\css\\site2.css"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\site3.css",
+      "PackagePath": "staticwebassets\\css\\site3.css"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\site4.css",
+      "PackagePath": "staticwebassets\\css\\site4.css"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\css\\site5.css",
+      "PackagePath": "staticwebassets\\css\\site5.css"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\js\\site3.js",
+      "PackagePath": "staticwebassets\\js\\site3.js"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "Z:\\павчик\\PAWSKINS_orig\\PAWSKINS_orig\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PAWSKINS_orig.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.PAWSKINS_orig.props",
+      "PackagePath": "build\\PAWSKINS_orig.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PAWSKINS_orig.props",
+      "PackagePath": "buildMultiTargeting\\PAWSKINS_orig.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.PAWSKINS_orig.props",
+      "PackagePath": "buildTransitive\\PAWSKINS_orig.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

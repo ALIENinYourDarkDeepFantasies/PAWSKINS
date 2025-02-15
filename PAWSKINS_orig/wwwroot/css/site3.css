@@ -1,0 +1,275 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 1465px) {
+    .upperBar {
+        margin-left: 432px
+    }
+}
+
+body {
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    z-index: 1;
+}
+
+header {
+    z-index: 5;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+@font-face {
+    font-family: "Ostrovsky-Bold_0";
+    src: url("Ostrovsky-Bold_0.otf");
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+.upperBar {
+    display: flex;
+    width: 1015px;
+    justify-content: space-between;
+    margin-top: 12px;
+}
+
+    .upperBar .logoGame {
+        display: flex;
+        justify-content: space-around;
+        background: url(backLogoGame.png);
+        width: 127px;
+        height: 42px;
+    }
+
+        .upperBar .logoGame .logoCS {
+            padding-top: 7px;
+        }
+
+    .logoCS img {
+        width: 53px;
+        height: 22px;
+    }
+
+.upperBar .logoGame .logoDota {
+    padding-top: 5px;
+}
+
+    .logoDota img {
+        width: 27px;
+        height: 28px;
+    }
+
+.upperBar .searchSkins {
+    background: url(backSearchSkins.png);
+    width: 644px;
+    height: 42px;
+}
+
+    .searchSkins img {
+        width: 30px;
+        height: 30px;
+        padding: 6px 0px 0px 10px;
+    }
+
+.searchSkins input {
+    border: 0;
+    color: #cbcdd2;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    box-sizing: border-box;
+    font: 20px open sans, sans-serif;
+    height: 38px;
+    outline: 0;
+    padding-left: 15px;
+    background: url(backLink2.png);
+    width: 550px;
+    position: relative;
+    bottom: 9px;
+    z-index: 5;
+}
+
+.searchSkins input::placeholder {
+    position: relative;
+    left: 150px;
+    color: #cbcdd2;
+    font-size: 20px;
+    font-style: normal;
+    font-family: Ostrovsky-Bold_0;
+}
+
+.upperBar .cash {
+    background: url(backCash2.png);
+    width: 134px;
+    height: 42px;
+}
+
+.cash p {
+    margin: 10px;
+    margin-left: 55px;
+    color: #cbcdd2;
+    font-size: 20px;
+    font-style: normal;
+    font-family: Ostrovsky-Bold_0;
+    position: absolute;
+}
+
+.priceLine {
+    position: absolute;
+    z-index: 5;
+    margin-top: 3px;
+    margin-left: 12px;
+}
+
+    .priceLine .redLine {
+        max-height: 4px;
+        margin-left: 6px;
+    }
+
+    .priceLine .yellowLine {
+        max-height: 4px;
+        margin-top: 3px;
+        margin-left: 3px;
+    }
+
+    .priceLine .greenLine {
+        max-height: 4px;
+        margin-top: 3px;
+    }
+
+.upperBar .refreshButton {
+    background: url(backRefresh2.png);
+    width: 78px;
+    height: 42px;
+}
+
+.refreshButton img {
+    margin: 5px 0px 0px 23px;
+    width: 31px;
+    height: 31px;
+}
+
+.mainTheme {
+    display: flex;
+    margin-top: 10px;
+}
+
+    .mainTheme .leftTheme {
+        background: url(backLeftTheme.png);
+        min-width: 220px;
+        height: 890px;
+    }
+
+.mainTheme .rightTheme {
+    background: url(backRightTheme.png);
+    width: 1679px;
+    height: 890px;
+    margin-left: 10px;
+}
+
+    .mainTheme .leftTheme .filters {
+        display: flex;
+        flex-direction: column;
+        margin-top: 9px;
+        z-index: 6;
+        position:relative;
+    }
+
+        .mainTheme .leftTheme .filters .filter {
+            display: flex;
+            position: relative;
+            justify-content: space-between;
+            margin: 10px;
+            color: #cbcdd2;
+            font-size: 15px;
+            font-style: normal;
+            font-family: Ostrovsky-Bold_0;
+        }
+
+.filter img {
+    padding-top: 3px;
+    width: 19px;
+    height: 11px;
+    margin-right: 5px;
+}
+
+.rightTheme .itemMarket {
+    z-index: 0;
+}
+
+.rightTheme .itemMarket {
+    display: grid;
+    align-items: baseline;
+    margin: 10px;
+    gap: 20px;
+    grid-template-columns: repeat(auto-fill, minmax(299px, 1fr));
+    grid-template-rows: 224px;
+    height: 545px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    padding-bottom: 40px;
+    position: relative;
+    white-space: normal;
+    z-index: 4;
+}
+
+.rightTheme .itemMarket .lot2 {
+    background: url(backLot2.png);
+    width: 314px;
+    height: 240px;
+}
+
+.rightTheme .itemMarket .lot2 img {
+    max-width: 200px;
+    min-width: 200px;
+    max-height: 150px;
+    padding-left: 45px;
+}
+
+.rightTheme .itemMarket .lot2 .skinInfo2 {
+    color: #cbcdd2;
+    font-size: 16px;
+    font-family: Arial;
+    padding: 10px 0px 0px 10px;
+}
+
+.rightTheme .itemMarket .lot2 .skinInfo2 .infoItem2 {
+    display: inline-block;
+}
+
+.rightTheme .itemMarket .lot2 .bottomLot2 {
+    color: #cbcdd2;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: Cambria Math;
+    padding-left: 10px;
+    position: relative;
+    bottom: 10px;
+}
+
+.lot2 .bottomLot2 li {
+    transition: all ease 500ms;
+}
+
+.lot2.hide {
+    display: none;
+}
+
+.rightTheme .itemMarket .lot2 .priceLot2 {
+    display: inline-block;
+    color: #cbcdd2;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: Arial;
+    vertical-align: top;
+    padding-left: 10px;
+    position: relative;
+    bottom: 10px;
+}

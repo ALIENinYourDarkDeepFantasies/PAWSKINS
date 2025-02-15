@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - PAWSKINS</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body class="wrap">
+    <div class="bgPaw">
+        <img src="~/css/bgPaw2.png">
+    </div>
+    <header class="header">
+        <section class="max-container">
+            <nav class="header-container">
+                <a asp-action="Index" class="logo">
+                    <img src="~/Image/Logo2.png" width="85" height="107">
+                </a>
+                <a class="a" asp-action="Index">
+                    <div>
+                        <table class="name-site">
+                            <tr>
+                                <td class="PAW">
+                                    Paw
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="SKINS">
+                                    Skins
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </a>
+                <nav class="header_word">
+                    <a class="header-button" asp-action="CashRoom">
+                        Покупка
+                    </a>
+                    <a class="header-button" asp-action="garandRoom">
+                        Гарантии
+                    </a>
+                    <a class="header-button" asp-action="Index">
+                        Продажа
+                    </a>
+                    <a class="header-button" asp-action="FAQRoom">
+                        Faq
+                    </a>
+                </nav>
+            </nav>
+            <div class="wrapper">
+                <a href="https://vk.com/alien_xd" class="social">
+                    <img src="~/Image/vk.png" width="57" height="57">
+                </a>
+                <a href="https://t.me/+GjONvxY2kLViNjky" class="social">
+                    <img src="~/Image/tg.png" width="57" height="57">
+                </a>
+                <div class="login">
+                    0,00 ₽ (0,00 $)
+                    <button class="profile">
+                        <div class="dropdown">
+                            <nav class="dropdown-content">
+                                <a asp-action="Index">Пополнить баланс </a>
+                                <a asp-action="Index">Вывести баланс </a>
+                                <a asp-action="">Личный кабинет </a>
+                                <a asp-action="Index">Инвентарь </a>
+                            </nav>
+                            <span class="profile-text">
+                                Личный Кабинет
+                            </span>
+                        </div>
+                    </button>
+                </div>
+            </div>
+        </section>
+    </header>
+    @RenderBody()
+    <footer class="border-top footer text-muted">
+        
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

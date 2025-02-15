@@ -1,0 +1,922 @@
+html {
+  font-size: 14px;
+}
+
+@media (max-width: 1550px) {
+    .sellBlock .blocks {
+        flex-wrap: wrap;
+        margin: 0;
+    }
+}
+
+@media (min-width: 800px) {
+    .sellBlock .payout:last-child {
+        position: sticky;
+        top: 70px;
+    }
+}
+@media (min-width: 600px) and (max-width: 800px) {
+    .sellBlock .fourBlock {
+        position: relative;
+    }
+}
+
+@media only screen and (max-width: 1200px) and (min-width: 800px) {
+    .sellBlock .payout .fourBlock {
+        padding-left: 50px;
+    }
+}
+@media only screen and (max-width: 800px) {
+    .sellBlock .payout .fourBlock {
+        padding-left: 0;
+    }
+}
+
+@media (min-width: 600px) and (max-width: 800px) {
+    .sellBlock .payout:last-child .fourBlock {
+        position: relative;
+    }
+}
+
+@media (min-width: 800px) and (max-width: 900px) {
+    .sellBlock .payout:last-child {
+        margin-left: 13px;
+    }
+}
+
+/*@media (max-width: 800px) {
+    .sellBlock .payout:last-child {
+        margin-left: 0;
+        max-width: unset;
+        width: 100%;
+    }
+}*/
+
+@media (max-width: 1000px) {
+    .inventoryTopControl {
+        flex-wrap: wrap;
+        margin: 0;
+    }
+}
+
+@media (max-width: 1000px) {
+    .priceOrder {
+       margin-left: 16px;
+       margin-right: 10px;
+    }
+    .selectAll {
+        margin-right: 10px;
+    }
+    .reloadInventory {
+        margin-right: 10px;
+    }
+}
+
+@media (min-width: 600px) {
+    .payout {
+        margin-left: 35px;
+    }
+}
+
+
+body {
+    background-image: url(bg.png);
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    z-index: 1;
+}
+
+.bgPaw {
+    position: absolute;
+}
+
+.bgPaw img {
+    position:absolute;
+    z-index: 3;
+}
+
+header {
+    z-index: 5;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+
+  }
+}
+
+@media (max-width: 768px) {
+    .tradeUrlBlock {
+        
+    }
+}
+
+@font-face {
+    font-family: "Ostrovsky-Bold_0";
+    src: url("Ostrovsky-Bold_0.otf");
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+.name-site {
+    margin: 0 7px;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    font-family: Garamond;
+    text-transform: uppercase;
+}
+
+.logo {
+    position: relative;
+    bottom: 3.5px;
+    margin-left: 7px;
+}
+
+.PAW {
+    text-align: center;
+    color: #000000;
+    vertical-align: bottom;
+    position: relative;
+    top: 10px;
+}
+
+.SKINS {
+    color: #8c0001;
+    position: relative;
+    bottom: 15px;
+}
+
+.header_word {
+    margin: 0 40px;
+}
+
+.header-container {
+    align-items: center;
+    display: flex;
+    max-width: 1275px;
+    max-height: 126px;
+    vertical-align: baseline;
+}
+
+.max-container {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 5px;
+    position: relative;
+    background: url(backheader11.png)
+}
+
+.wrap {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1920px;
+}
+
+.header {
+    position: sticky;
+    top: 0;
+}
+
+table {
+    display: table;
+    border-collapse:separate;
+    text-indent: initial;
+    border-spacing: 0px;
+    border-color: gray;
+}
+
+a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, p, pre, q, ruby, s, samp, section, small, span, strike, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video {
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+    text-decoration: none;
+}
+
+.header-button {
+    color: #cbcdd2;
+    font-size: 30px;
+    font-style: normal;
+    font-family: Ostrovsky-Bold_0;
+    font-weight: 400;
+    margin: 0 15px;
+    text-decoration: none;
+    text-transform: uppercase;
+    position:relative;
+    bottom:20px;
+}
+
+    .header-button:hover {
+        color: #8c0001;
+    }
+
+.wrapper {
+    align-items: center;
+    display: flex;
+    position: relative;
+    bottom: 20px;
+}
+
+.social {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 5px;
+}
+
+.login {
+    display: flex;
+    color: #cbcdd2;
+    font-size: 30px;
+    font-style: normal;
+    font-family: Ostrovsky-Bold_0;
+    font-weight: 400;
+    margin: 0 7px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.profile {
+    align-items: center;
+    background: #1a1c21;
+    border: 1px solid #cbcdd2;
+    border-radius: 15px;
+    cursor: pointer;
+    display: flex;
+    font-family: Ostrovsky-Bold_0;
+    font-size: 30px;
+    font-weight: 600;
+    margin: 0 16px;
+    max-height: 38px;
+    padding: 10px 16px;
+    text-transform: uppercase;
+    position: relative;
+    bottom: 3px;
+}
+.profile-text {
+    border: 0;
+    color: #cbcdd2;
+    font-size: 100%;
+    font: inherit;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    bottom: 35px;
+    vertical-align: baseline;
+}
+
+    .profile-text:hover {
+        color: #8c0001;
+    }
+
+.fa {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+}
+
+.main-conteiner {
+    min-height: calc(100vh - 420px);
+}
+
+.main-header {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1400px;
+    padding: 10px 25px 0;
+    text-align: left;
+}
+
+.main-body {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1400px;
+}
+
+.dropdown {
+    position: relative;
+    top: 35px;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    align-items: center;
+    font-family: Ostrovsky-Bold_0;
+    font-size: 20px;
+    font-weight: 900;
+    text-transform: uppercase;
+    margin-top: 5px;
+    min-width: 160px;
+    background: #1a1c21;
+    border: 1px solid #cbcdd2;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+    .dropdown-content a {
+        color: #cbcdd2;
+        font-size: 100%;
+        font: inherit;
+        margin: 5px 0px 5px;
+        padding: 0;
+        vertical-align: baseline;
+    }
+
+.profile:hover .dropdown-content {
+    display: grid;
+}
+
+.dropdown-content a:hover {
+    color: #8c0001;
+}
+
+.sellBlock {
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    margin: 0;
+    vertical-align: baseline;
+    padding: 0 25px;
+}
+
+.sellBlock .blocks {
+    display: flex;
+    margin-bottom: 40px;
+    white-space: nowrap;
+}
+
+    .sellBlock .blocks .block {
+        display: inline-block;
+        vertical-align: top;
+        width: 100%;
+    }
+
+        .sellBlock .blocks .block:first-child {
+            position: relative;
+        }
+
+.tradeUrlBlock {
+    background: url(cheholchik.png);
+    height: 91px;
+    margin-top: 29px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: calc(100%);
+    border-radius: 18px;
+}
+
+.sellBlock .tradeUrlBlock .name {
+    padding: 13px 0px 0px 19px;
+    color: #cbcdd2;
+    font-size: 15px;
+    font-family: Ostrovsky-Bold_0;
+    vertical-align: baseline;
+}
+
+.tradeLink {
+    border-bottom: 1px dotted #8c0001;
+    color: #8c0001;
+    text-decoration: none;
+    position: relative;
+    z-index: 5;
+}
+
+.sellBlock .tradeUrlBlock .tradeUrlStatus {
+    overflow: hidden;
+    background: url(backTrade2.png);
+    height: 48px;
+    margin: 4px 19px 14px 19px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: calc(100%);
+    border-radius: 18px;
+}
+
+.sellBlock .tradeUrlBlock .tradeUrlStatus .tradeUrlField {
+
+}
+
+.sellBlock .tradeUrlBlock .tradeUrlStatus .save {
+
+}
+
+    .sellBlock .tradeUrlBlock .tradeUrlStatus input {
+        border: 0;
+        color: #cbcdd2;
+        border-bottom-left-radius: 5px;
+        border-top-left-radius: 5px;
+        box-sizing: border-box;
+        font: 20px open sans, sans-serif;
+        height: 38.9px;
+        outline: 0;
+        padding: 8px 15px 0px 15px;
+        background: url(backLink2.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: calc(100%);
+        border-radius: 18px;
+        position: relative;
+        z-index: 5;
+    }
+
+input {
+    text-rendering: auto;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    appearance: auto;
+    cursor: text;
+    margin: 0em;
+    padding: 0px 0px;
+    border-width: 2px;
+    border-style: inset;
+    border-image: initial;
+    padding-block: 1px;
+    padding-inline: 2px;
+}
+
+.sellBlock .inventoryTopControl {
+    align-items: center;
+    background: url(backSearch2.png);
+    border-radius: 6px;
+    display: flex;
+    margin-top: 18px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 18px;
+    width: calc(100%);
+    min-height: 71px;
+}
+
+    .sellBlock .inventoryTopControl .navigationWrapper {
+        display: flex;
+        width: calc(100%);
+    }
+
+        .sellBlock .inventoryTopControl .navigationWrapper .gamesNavigation {
+            margin-right: 10px;
+        }
+
+.gamesNavigation {
+    align-items: center;
+    border: 1px solid #3f424a;
+    border-radius: 4px;
+    display: flex;
+    font-size: 0;
+    height: 42px;
+}
+
+    .gamesNavigation img {
+        height: 65px;
+        width: 2px;
+        position: relative;
+        z-index: 4;
+    }
+
+.gamesNavigationLink_dota {
+    max-width: 78px;
+}
+
+.gamesNavigationLink_dota img {
+    height: 50px;
+    width: 48px;
+    margin: 10px;
+    margin-left: 16px;
+    margin-right: 33px;
+}
+
+.gamesNavigationLink_csgo img {
+    height: 33px;
+    width: 78px;
+    margin: 10px;
+    margin-left: 23px;
+}
+
+.search {
+    background: url(backSearchForSkins.png);
+    display: inline-block;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: calc(100%);
+    border-radius: 18px;
+    max-height: 42px;
+}
+
+    .search img {
+        position:relative;
+        top: 6px;
+        left: 12px;
+    }
+
+    .search input {
+        border: 0;
+        border-bottom-left-radius: 5px;
+        border-top-left-radius: 5px;
+        box-sizing: border-box;
+        font: 20px open sans, sans-serif;
+        color: #cbcdd2;
+        height: 38px;
+        outline: 0;
+        padding-left: 25px;
+        padding-right: 15px;
+        background: url(backLink.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: calc(100%);
+        min-width: 260px;
+        position: relative;
+        bottom: 2px;
+        z-index: 5;
+    }
+
+        .search input::placeholder {
+            position: relative;
+            color: #cbcdd2;
+            font-size: 20px;
+            font-style: normal;
+            font-family: Ostrovsky-Bold_0;
+        }
+
+        .sellBlock .inventoryTopControl .buttonsWrapper {
+            display: flex;
+        }
+
+.sellBlock .inventoryTopControl .priceOrder {
+    align-items: center;
+    background: url(backPrice.png);
+    font-size: 14px;
+    height: 42px;
+    width: 127px;
+    z-index: 4;
+    position: relative;
+    display: inline-block;
+}
+
+    .priceOrderButton {
+        margin: 10px;
+        margin-left: 50px;
+        color: #cbcdd2;
+        font-size: 20px;
+        font-style: normal;
+        font-family: Ostrovsky-Bold_0;
+        border: none;
+        background: none;
+    }
+
+.priceOrderContent {
+    display: none;
+    position: absolute;
+    min-width: 160px;
+    z-index: 20;
+    border-radius: 25px;
+}
+
+    .priceOrderContent button {
+        color: black;
+        padding: 4px 6px;
+        text-decoration: none;
+        display: block;
+        border: none;
+        background-color: #ffffff;
+        z-index: 19;
+    }
+
+.priceOrder:hover .priceOrderContent {
+    display: block;
+}
+
+.priceOrderContent button:hover {
+    background-color: #ddd;
+}
+
+.priceLine {
+    position: absolute;
+    z-index: 5;
+    margin-top: 3px;
+    margin-left: 12px;
+}
+
+.priceLine .redLine {
+    max-height: 4px;
+    margin-left: 6px;
+}
+
+    .priceLine .yellowLine {
+        max-height: 4px;
+        margin-top: 3px;
+        margin-left: 3px;
+    }
+
+    .priceLine .greenLine {
+        max-height: 4px;
+        margin-top: 3px;
+    }
+
+.priceOrderName {
+    margin: 10px;
+    margin-left: 50px;
+    color: #cbcdd2;
+    font-size: 20px;
+    font-style: normal;
+    font-family: Ostrovsky-Bold_0;
+    position: absolute;
+}
+
+.sellBlock .selectAll input[type=checkbox] {
+    left: -9999px;
+    position: absolute;
+}
+
+input[type="checkbox" i] {
+    background-color: initial;
+    cursor: default;
+    appearance: auto;
+    box-sizing: border-box;
+    margin: 3px 3px 3px 4px;
+    padding: initial;
+    border: initial;
+}
+
+.selectAll {
+    background: url(backChoose2.png);
+    width: 164px;
+    height: 42px;
+}
+
+    .selectAll label {
+        position: relative;
+        color: #cbcdd2;
+        font-size: 20px;
+        font-style: normal;
+        font-family: Ostrovsky-Bold_0;
+        left: 18px;
+        bottom: 13px;
+    }
+
+.sellBlock #reload-all {
+        font-size: 13px;
+        text-align: right;
+}
+
+.reloadInventory {
+    background: url(backRefresh.png);
+    height: 43px;
+    width: 73px;
+}
+
+.reloadInventory img {
+    padding-left: 21px;
+    padding-top: 5px;
+}
+
+.cube {
+    position: relative;
+    left: 125px;
+    top: 2px;
+}
+
+.cube1 {
+    margin: 0px;
+}
+
+.cube2 {
+    margin-left: -3px;
+}
+
+.cube3 {
+    margin-left: -3px;
+}
+
+.cube4 {
+    margin: 0px;
+    margin-bottom: 0px;
+}
+
+.cube5 {
+    margin-left: -3px;
+    margin-bottom: 0px;
+}
+
+.cube6 {
+    margin-left: -3px;
+    margin-bottom: 0px;
+}
+
+.cube7 {
+    margin: 0px;
+    margin-bottom: 0px;
+}
+
+.cube8 {
+    margin-left: -3px;
+    margin-bottom: 0px;
+}
+
+.cube9 {
+    margin-left: -3px;
+    margin-top: 0px;
+}
+
+.cube123 {
+    max-height: 8px;
+}
+
+.cube456 {
+    max-height: 8px;
+}
+
+.cube789 {
+    max-height: 8px;
+}
+
+.sellBlock .inventoryWrapper {
+    background: url(backInventory.png);
+    height: 702px;
+    margin-top: 22px;
+    padding-top: 16px;
+    padding-left: 23px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: calc(100%);
+    border-radius: 18px;
+}
+
+.sellBlock .inventory {
+    z-index: 0;
+}
+
+.sellBlock .inventory {
+    display: grid;
+    align-items: baseline;
+    gap: 5px;
+    grid-template-columns: repeat(auto-fill, minmax(299px, 1fr));
+    grid-template-rows: 224px;
+    height: 545px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    scroll-padding-right: 5px;
+    scrollbar-color: black gray;
+    width: calc(100%);
+    position: relative;
+    white-space: normal;
+    z-index: 4;
+}
+
+    .sellBlock .inventory .lot {
+        background: url(backLot.png);
+        max-width: 299px;
+        min-width: 299px;
+        min-height: 224px;
+    } 
+
+        .sellBlock .inventory .lot img {
+            max-width: 200px;
+            min-width: 200px;
+            max-height: 150px;
+            padding-left: 45px;
+        }
+
+        .sellBlock .inventory .lot .skinInfo {
+            color: #cbcdd2;
+            font-size: 16px;
+            font-family: Arial;
+            padding: 10px 0px 0px 10px;
+        }
+
+            .sellBlock .inventory .lot .skinInfo .infoItem {
+                display: inline-block;
+            }
+
+        .sellBlock .inventory .lot .bottomLot {
+            color: #cbcdd2;
+            font-size: 18px;
+            font-weight: 600;
+            font-family: Cambria Math;
+            padding-left: 10px;
+            position: relative;
+            bottom: 10px;
+        }
+
+            .lot .bottomLot li {
+                transition: all ease 500ms;
+            }
+
+.lot.hide {
+    display: none;
+}
+
+        .sellBlock .inventory .lot .priceLot {
+            display: inline-block;
+            color: #cbcdd2;
+            font-size: 18px;
+            font-weight: 600;
+            font-family: Arial;
+            vertical-align: top;
+            padding-left: 10px;
+            position: relative;
+            bottom: 10px;
+        }
+
+        .sellBlock .payout {
+            background: url(backPay.png);
+            /*margin-left: 35px;*/
+            margin-top: 30px;
+            max-height: 675px;
+            min-width: 534px;
+        }
+
+.sellBlock .payout .fourBlock {
+    padding-top: 20px;
+    padding-left: 13px;
+}
+
+.fourBlock img {
+    margin-top: 39px;
+}
+
+.sellBlock .payout .fourBlock .selectedItems {
+    color: #cbcdd2;
+    font-family: Ostrovsky-Bold_0;
+    font-style: normal;
+    font-size: 20px;
+    margin-left: 8px;
+}
+
+.sellBlock .payout .fourBlock .skinsPrice {
+    background: url(backCash.png);
+    color: #cbcdd2;
+    font-family: Ostrovsky-Bold_0;
+    font-size: 30px;
+    font-style: normal;
+    max-width: 132px;
+    min-height: 45px;
+    margin-top: 36px;
+    margin-left: 8px;
+}
+
+.skinsPrice span {
+    position: relative;
+    top: 7px;
+    margin: 10px;
+}
+
+.sellBlock .payout .fourBlock .choosePayment {
+    color: #cbcdd2;
+    font-family: Ostrovsky-Bold_0;
+    font-size: 18px;
+    font-style: normal;
+    margin-top: 14px;
+    margin-left: 8px;
+}
+
+.sellBlock .payout .fourBlock .paymentList {
+    display: grid;
+    grid-template-columns: repeat(3, 167px);
+    min-height: 315px;
+    margin-top: 15px;
+    margin-left:8px;
+}
+
+    .sellBlock .payout .fourBlock .paymentList .paymentLot {
+        background: url(backLotPay.png);
+        max-width: 154px;
+        max-height: 99px;
+    }
+
+.sellBlock .payout .fourBlock .continueDeal {
+    background: url(backPayButton.png);
+    color: #cbcdd2;
+    font-family: Ostrovsky-Bold_0;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    height: 17px;
+    line-height: 20px;
+    margin-top: 65px;
+    text-align: center;
+    max-width: 507px;
+    min-height: 63px;
+}
+
+.continueDeal label {
+    position:relative;
+    top: 22px;
+}

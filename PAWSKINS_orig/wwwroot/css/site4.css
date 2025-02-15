@@ -1,0 +1,66 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 1800px) {
+    .garandMain {
+        margin-left: 100px
+    }
+}
+
+body {
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    z-index: 1;
+}
+
+header {
+    z-index: 5;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+@font-face {
+    font-family: "Ostrovsky-Bold_0";
+    src: url("Ostrovsky-Bold_0.otf");
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+.garandMain {
+    background: url(backRightTheme.png);
+    width: 1679px;
+    height: 892px;
+    margin-top: 10px;
+}
+
+.garandMain .garandTitle {
+    padding: 10px;
+    color: #cbcdd2;
+    font-size: 15px;
+    font-style: normal;
+    font-family: Ostrovsky-Bold_0;
+}
+
+.garandTitle p {
+    padding: 10px;
+    z-index: 6;
+    position: relative;
+}
+
+.title {
+    color: #8c0001;
+    font-size: 25px;
+}
+
+.title1 {
+    font-size: 25px;
+    color: #c91104;
+}
